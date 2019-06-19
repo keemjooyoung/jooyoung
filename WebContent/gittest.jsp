@@ -18,6 +18,8 @@
 	충돌
 	실험2
 	충돌해결
+	충돌1
+	충돌2
 	<h1>git test1</h1>
 	<h2>git test2</h2>
 	<h3>git test3</h3>

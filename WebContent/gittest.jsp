@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+	마스터추가
 	마스터
 	123
 	4

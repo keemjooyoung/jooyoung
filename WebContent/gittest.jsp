@@ -24,7 +24,7 @@
 	마스터
 	충돌
 	실험2
-	충돌해결
+	충돌해결ddddddddddddddddddfffffffffffffff
 	충돌1
 	충돌2
 	동기화
